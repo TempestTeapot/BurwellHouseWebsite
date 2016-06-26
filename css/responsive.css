@@ -8,6 +8,7 @@
 		text-align: center;
 		width: auto;
 	}
+<<<<<<< HEAD
 }
 
 @media only screen and (max-width: 500px) {
@@ -20,4 +21,6 @@
 	.siderbar {
 		clear:both;
 	}
+=======
+>>>>>>> develop/develop
 }

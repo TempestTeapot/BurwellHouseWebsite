@@ -57,11 +57,14 @@ header .image {
 	margin-right: 30px;
 }
 
+<<<<<<< HEAD
 /* Image in Header hidden for mobile */
 header .image #mobile {
 	height: 25%;
 }
 
+=======
+>>>>>>> develop/develop
 h2 {
 	color: black;
 }

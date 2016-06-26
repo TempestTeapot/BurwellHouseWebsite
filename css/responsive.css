@@ -9,3 +9,15 @@
 		width: auto;
 	}
 }
+
+@media only screen and (max-width: 500px) {
+	.image {
+		visibility: hidden;
+	}
+	.container {
+		width: 25%;
+	}
+	.siderbar {
+		clear:both;
+	}
+}

@@ -57,6 +57,11 @@ header .image {
 	margin-right: 30px;
 }
 
+/* Image in Header hidden for mobile */
+header .image #mobile {
+	height: 25%;
+}
+
 h2 {
 	color: black;
 }
